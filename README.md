@@ -1,2 +1,2 @@
 # Szozat
- Hungarian World - No limit per day
+ Hungarian Wordle - No limit per day
